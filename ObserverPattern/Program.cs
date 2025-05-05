@@ -1,5 +1,6 @@
 ﻿public interface IObserver
 {
+    string Name { get; set; }
     void Update(string message);
 }
 
@@ -18,11 +19,13 @@ public class Order
     public void Subscribe(IObserver observer)
     {
         _observers.Add(observer);
+        Console.WriteLine($"{observer.Name} subscribed to Order {OrderId}");
     }
 
     public void Unsubscribe(IObserver observer)
     {
         _observers.Remove(observer);
+        Console.WriteLine($"{observer.Name} unsubscribed from Order {OrderId}");
     }
 
     public void ChangeStatus(string newStatus)
