@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.deps.json
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.dll
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.pdb
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.dll
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/refint/ObserverPattern.dll
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.pdb
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/BehaviouralPattern/ObserverPattern/obj/Debug/net9.0/ref/ObserverPattern.dll
